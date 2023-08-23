@@ -1,0 +1,32 @@
+/* style */
+.ribs,
+.tater,
+.meatloaf {
+    background-color: red;
+    padding: 50px;
+    border-color: black;
+    border-radius: 10px;
+    margin: 10px;
+
+    
+}
+
+.topname {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.ribs{
+    
+    
+}
+.tater {
+
+}
+.meatloaf {
+
+}
+
+
