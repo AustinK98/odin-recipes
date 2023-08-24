@@ -19,11 +19,24 @@
     
 }
 a {
-    color: black;
+    color: gray;
 }
 html {
     background-image: url(recipes/aivike2.jpeg);
     background-size: cover;
     position: center;
     background-repeat: no-repeat;
+}
+body {
+    color:red;
+}
+.ml,
+.tot {
+    box-sizing: border-box;
+    border-color: red;
+    border: 10px solid;
+}
+.tot {
+    rotate: 90deg;
+    margin-left: 30%;
 }
